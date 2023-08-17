@@ -37,6 +37,7 @@
     "gulp-babel": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^3.0.0",
     "gulp-imagemin": "^6.1.0",
     "gulp-load-plugins": "^2.0.8",
     "gulp-sass": "^5.1.0",
