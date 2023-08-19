@@ -1,6 +1,6 @@
 {
   "name": "oyc-pages",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A project about gulp",
   "keywords": [
     "oyc-pages"
@@ -21,7 +21,7 @@
   },
   "renovate": {
     "extends": [
-      "zce"
+      "oyc"
     ]
   },
   "standard": {
