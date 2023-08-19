@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "description": "A project about gulp",
   "keywords": [
-    "oyc-pages",
-    "zce"
+    "oyc-pages"
   ],
   "repository": "oycrky106/oyc-pages",
   "license": "MIT",
   "author": "oycrky106 <sedfqtukjyt@hotmail.com> (https://github.com/oycrky106)",
   "main": "lib/index.js",
+  "bin": "bin/oyc-pages.js",
   "files": [
     "lib"
   ],
