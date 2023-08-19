@@ -11,7 +11,8 @@
   "main": "lib/index.js",
   "bin": "bin/oyc-pages.js",
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "scripts": {
     "lint": "standard --fix",
